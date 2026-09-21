@@ -1,0 +1,37 @@
+html {
+    font-size: 15px;
+}
+
+body {
+    margin: 0;
+    font-family: ui-monospace, "Cascadia Code", "SF Mono", Menlo, Consolas, monospace;
+    line-height: 1.65;
+    color: #000;
+    background: #fff;
+}
+
+body.dark {
+    color: #fff;
+    background: #000;
+}
+
+.wrap {
+    box-sizing: border-box;
+    max-width: 52ch;
+    margin: 0 auto;
+    padding: 3rem 1.25rem 4rem;
+}
+
+.brand {
+    margin: 0 0 0.75rem;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.theme-toggle {
+    font: inherit;
+    color: inherit;
+    background: transparent;
+    border: 1px solid currentColor;
+    cursor: pointer;
+}
