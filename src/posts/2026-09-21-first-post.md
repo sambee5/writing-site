@@ -1,0 +1,11 @@
+# First Post
+
+Making this site was a pretty new experience for me. I haven't had too much experience with web development in the past aside from working on my robotics teams scouting system and another project. I was much more of a newbie to it compared to what I am now. To be honest, I'm still not that great. There were times during this *brief* development process that prompted me to do a little bit of digging and learning, but I think the use of LLMs accelerated the learning process a lot.
+
+I'm typically dismissive of using LLMs because it feels like a disservice to my own creativity, but it's super useful for menial tasks like scraping through documentations. Plus, I'm not much of a web developer anyways. 
+
+Ever since I was a little, I've always wanted to have a website. The thought of owning my own corner of the internet gave me a sense of control. Now that I know substantially more about programming (and just *everything* in general), I think it's a pretty good time to accomplish that dream of mine. 
+
+Actually, making a website has been on my mind a lot recently. But primarily, the thought was reignited by a YouTube channel called [jetbundle](https://www.youtube.com/@jetbundle). They publish some pretty interesting math and physics videos, many of which I can't begin to comprehend. As naive as I am, the best thing I liked about their videos is their minimalistic website. I tried to copy the fonts and structures over here because they're really appealing.
+
+I don't really have a set topic that I'd like to discuss on this website, but I had an initial ideas I liked. I was reading the [MIT admissions blog](https://mitadmissions.org/blogs/) and found some interesting and reflective pieces of writing. I thought that I could make my own posts on whatever I feel like sharing. As I'm going through the college admissions process, there are a lot of essays that I'm refining and working on. This is probably the most I've ever written for a sustained period of time. Hopefully, I can get some of my creative juices flowing, allowing me to write things I feel proud of. It turns out, I actually like writing, so I hope to share some of my pieces here. 
