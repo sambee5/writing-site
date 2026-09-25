@@ -19,6 +19,13 @@ a {
     color: inherit;
 }
 
+article img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 1.5rem auto;
+}
+
 .wrap {
     box-sizing: border-box;
     max-width: 52ch;
